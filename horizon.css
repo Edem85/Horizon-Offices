@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+	
+</head>
+
+
+<body>
+	<script type="text/javascript">
+	var string1 = "Hello world"
+	var string2 = "Nice weekend"
+	var string3 = "You're welcome"
+	var string4 = "Just do it"
+	var string5 = "World goes on"
+
+	var int1 = 45
+	var int2 = 68
+	var int3 = -29
+	var int4 = 33
+	var int5 = -5
+
+	let flo1 = 2.3
+	let flo2 = 15.7
+	let flo3 = 21.4
+	let flo4 = 55.23
+	let flo5 = -2.3
+
+	var bool1= true
+	var bool2 = false
+	console.log(3==4)
+	console.log(3>2)
+	console.log(bool1===bool2)
+
+	document.write(string4+" right");
+
+</script>
+<br>
+<script type="text/javascript">
+	
+	document.write(int1+int2);
+	
+</script>
+<br>
+<script type="text/javascript">
+	document.write(5/2);
+	
+</script><br>
+<script type="text/javascript">
+	document.write(int5);
+	
+</script><br>
+<script type="text/javascript">
+	document.write(int4<int5);
+	
+</script><br>
+<script type="text/javascript">
+	document.write(string2===int4);
+	
+</script><br>
+<script type="text/javascript">
+	document.write(flo5);
+	
+</script><br>
+<script type="text/javascript">
+	document.write(bool1);
+</script><br>
+<script type="text/javascript">
+	document.write(string2);
+	
+</script><br>
+<script type="text/javascript">
+	document.write(int4);
+</script><br>
+<script src="myscript.js"></script>
+</body>
+</html>
